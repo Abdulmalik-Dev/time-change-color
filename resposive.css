@@ -1,0 +1,30 @@
+@media ( max-width:500px)and(min-width:435px){
+    
+    /* Style of outer main of page framework */
+    #bigMain { 
+        width: 325px; 
+        height: 270px; 
+    } 
+
+    /* Style of inner main */
+    #yungMain { 
+        width: 285px; 
+        height: 200px; 
+    }
+
+}
+
+@media (max-width:434px){
+
+    /* Style of outer main of page framework */
+    #bigMain {
+        width: 275px;
+        height: 216px;
+    }
+
+    /* Style of inner main */
+    #yungMain {
+        width: 240px;
+        height: 170px;
+    }
+}

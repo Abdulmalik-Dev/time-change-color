@@ -48,20 +48,6 @@
 /* Input of change background color of page */
 #inputColor{
     position: absolute;
-    bottom: 2px;
+    bottom: 0px;
     left: 44%;
-}
-/* For mobile screen */
-@media only screen and (min-width:600px) and (max-width:780px){
-
-    /* For outer main in mobile screen */
-    #yungMain{
-        width: 200px;
-        height: 200px;
-    }
-
-    /* For inner main in mobile screen */
-    #bigMain{
-        width: 260px;
-    }
 }
